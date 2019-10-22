@@ -1,0 +1,29 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+}
+.folder{
+    width: 300px;
+    height: 100px;
+    /* border: 1px solid #323232; */
+    border-radius: 10px;
+    text-align: center;
+    display: inline-block;
+}
+.folder:hover{
+    background-color: lightgray;
+}
+h1{
+    color: lightslategray;
+    font-size: 3em;
+    text-align: center;
+    border: 8px solid lightslategray;
+    border-radius: 15px;
+}
+section{
+    text-align: center;
+}
+audio{
+    width: 250px;
+    height: 73px;
+}
